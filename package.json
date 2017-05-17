@@ -1,0 +1,12 @@
+{
+  "name": "huaban",
+  "description": "花瓣网",
+  "dependencies": {
+  },
+  "scripts": {
+  	"debug": "fis3 server start && fis3 release -wL",
+  	"online": "fis3 release online"
+  },
+  "repository": {},
+  "license": "MIT"
+}
